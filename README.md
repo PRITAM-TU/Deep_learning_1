@@ -1,0 +1,2 @@
+## Kidny disesse prediction using Deep Learning Tnasorflow karas
+This project is a machine learning model that predicts kidney disease using deep learning techniques with TensorFlow and    Keras. The model is trained on a dataset of kidney disease patients and can be used to predict the likelihood of a patient having kidney disease based on their medical data.
